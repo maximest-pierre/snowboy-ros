@@ -1,2 +1,4 @@
 # snowboy-ros
-Wrapper python for snowboy-ros for S.A.R.A.
+ROS Wrapper for snowboy made for Walking Machine
+
+This wrapper is for snowbow ai. Snowboy is a distributed neural network for hotword detection.
